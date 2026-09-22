@@ -1,0 +1,5 @@
+Hello World!
+I'm learning C++ file handling.
+I'm Ouattara.
+I like coding and one day i will become a real Developer and build great software.
+Just focus on your goal and never give up.
